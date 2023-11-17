@@ -1,5 +1,8 @@
-{
-    "java.project.sourcePaths": ["src"],
+{   
+    "recommendations": [
+        "ms-ceintl.vscode-language-pack-pt-br"
+    ],
+    "doki.sticker.path": "",
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
